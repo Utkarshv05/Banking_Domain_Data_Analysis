@@ -132,5 +132,6 @@ Install required libraries:
 
 📚 References
 
-YouTube Tutorial:
-(https://youtu.be/qlYT2VIyaaY?si=1IbRSr79Pj4tUfZ_)
+## 🎥 YouTube Tutorial
+
+[![YouTube Tutorial](https://img.youtube.com/vi/qlYT2VIyaaY/0.jpg)](https://youtu.be/qlYT2VIyaaY)
